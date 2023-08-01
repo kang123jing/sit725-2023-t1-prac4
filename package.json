@@ -1,0 +1,27 @@
+{
+  "name": "sit725-2023-t1-prac3",
+  "version": "1.0.0",
+  "description": "SIT725 3.2P",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhishanand9/sit725-2023-t1-prac3.git"
+  },
+  "keywords": [
+    "Express",
+    "NodeJs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhishanand9/sit725-2023-t1-prac3/issues"
+  },
+  "homepage": "https://github.com/adhishanand9/sit725-2023-t1-prac3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
