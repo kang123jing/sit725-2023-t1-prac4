@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/adhishanand9/sit725-2023-t1-prac3#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^4.4.1"
   }
 }
