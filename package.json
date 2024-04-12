@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adhishanand9/sit725-2023-t1-prac3.git"
+    "url": "git+https://github.com/kang123jing/sit725-2023-t1-prac4.git"
   },
   "keywords": [
     "Express",
@@ -18,9 +18,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adhishanand9/sit725-2023-t1-prac3/issues"
+    "url": "https://github.com/kang123jing/sit725-2023-t1-prac4.git/issues"
   },
-  "homepage": "https://github.com/adhishanand9/sit725-2023-t1-prac3#readme",
+  "homepage": "https://github.com/kang123jing/sit725-2023-t1-prac4.git#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mongodb": "^4.17.2"
